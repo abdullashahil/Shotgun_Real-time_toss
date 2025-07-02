@@ -44,7 +44,7 @@ setInterval(() => {
 function registerSocketHandlers(server) {
   const io = socketIo(server, {
     cors: {
-      origin: ['http://localhost:3000', 'http://localhost:3001'],
+      origin: ['http://localhost:3000', 'https://shotgun-real-time-toss.vercel.app'],
       methods: ['GET', 'POST'],
       credentials: true
     },
