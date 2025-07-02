@@ -9,8 +9,8 @@ A real-time multiplayer application where users can create or join a room and ta
 
 ## 🔗 Live Links
 
-* **Frontend (Next.js)**: [Frontend Deployment Link Here](#)
-* **Backend (Socket.IO API)**: [Backend Deployment Link Here](#)
+* **Frontend (Next.js)**: [https://shotgun-real-time-toss.vercel.app/](#)
+* **Backend (Socket.IO API)**: [https://shotgun-real-time-toss.onrender.com](#) (can take upto 50 seconds to spin up)
 
 ---
 
